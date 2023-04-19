@@ -13,12 +13,15 @@
   3.Created junit test case for class Boa and for test method stubs, select both isHealthy() and fitsInCage(int).
   
   4.Added Unit Tests
+  
   ![image](https://user-images.githubusercontent.com/123475855/233036546-401ab7ca-71d8-4b19-b4fe-531b56e5b0cb.png)
   
   5.Added private fields for jen and ken in the Boa class
+  
   ![image](https://user-images.githubusercontent.com/123475855/233036784-398aa388-31ea-4264-8bb5-3bb9b8eb7688.png)
 
   6.Adding some Test Cases
+  
 
 
  
