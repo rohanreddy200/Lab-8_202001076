@@ -4,7 +4,7 @@
    The goal of this lab is to learn how to use JUnit to write unit tests for Java programs.
 # Lab Exercises
 
-   1.Created a new Eclipse project - lab8 and within that created a package - lab8
+   1.Created a new Eclipse project - Lab_8 and within that created a package - Lab_8
    
    2.Created a class in the package - classname - Boa
    
