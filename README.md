@@ -29,15 +29,15 @@
   ![image](https://user-images.githubusercontent.com/123475855/233042975-7cc4072e-1a1b-4f75-a0f8-bce693cf4325.png)
 
 
-  7.Adding a new method to the Boa class -
+  8.Adding a new method to the Boa class -
   
   ![image](https://user-images.githubusercontent.com/123475855/233040188-c11818ac-f1ba-483a-bcaa-1a7152fd3206.png)
   
-  8.Adding new test case for the method added -
+  9.Adding new test case for the method added -
   
   ![image](https://user-images.githubusercontent.com/123475855/233041066-c5b6039f-eb52-497c-98e9-3f414bcb0acc.png)
   
-  9.After running all the test cases after adding new method -
+  10.After running all the test cases after adding new method -
   
   ![image](https://user-images.githubusercontent.com/123475855/233043124-dd999148-eedd-456a-b26e-f68b15fb912d.png)
 
